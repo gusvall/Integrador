@@ -1,2 +1,2 @@
 # Integrador
-Integrador de Desarrollo Web 1
+Integrador de Desarrollo Web 1 sin CSS
