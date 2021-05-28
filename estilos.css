@@ -9,6 +9,7 @@ nav {
     top: 0px;
     left: 0px;
     right: 0px;
+    border-bottom: 2px solid black;
 }
 nav ul {
     padding: 0px 50px;
